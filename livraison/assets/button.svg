@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="73" viewBox="0 0 73 73">
+  <g id="Groupe_1" data-name="Groupe 1" transform="translate(-160 -734)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(160 734)" fill="rgba(245,245,245,0)" stroke="#ffb500" stroke-width="5">
+      <circle cx="36.5" cy="36.5" r="36.5" stroke="none"/>
+      <circle cx="36.5" cy="36.5" r="34" fill="none"/>
+    </g>
+    <path id="Tracé_1" data-name="Tracé 1" d="M27.393,0A27.393,27.393,0,1,1,0,27.393,27.494,27.494,0,0,1,27.393,0Z" transform="translate(169.107 743.107)" fill="#ffb500"/>
+    <path id="Icon_ionic-ios-arrow-forward" data-name="Icon ionic-ios-arrow-forward" d="M23.945,22.087,11.914,10.065a2.262,2.262,0,0,1,0-3.209,2.291,2.291,0,0,1,3.218,0l13.63,13.621a2.268,2.268,0,0,1,.066,3.133L15.142,37.326a2.272,2.272,0,0,1-3.218-3.209Z" transform="translate(178.165 748.407)" fill="#46200a" stroke="#46200a" stroke-width="2"/>
+  </g>
+</svg>
